@@ -1,0 +1,9 @@
+[Export] Using random weights (no checkpoint provided)
+[Export] Model: 734,961 params, ~2.94 MB (fp32)
+[Benchmark] PyTorch CUDA: 231.2 FPS  (latency: 4.3ms ┬▒ 0.1ms)
+[Export] WARNING: 'onnx' package not installed.
+[Export] To enable ONNX export, run:
+  pip install onnx onnxruntime
+
+[Summary] PyTorch CUDA: 231.2 FPS
+[Summary] Model: 734,961 params (~2.94 MB)

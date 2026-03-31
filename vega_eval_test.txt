@@ -1,0 +1,31 @@
+[VEGA] No checkpoint provided ΓÇö evaluating with random weights
+[WARNING] nuScenes not available: No module named 'nuscenes'
+[WARNING] Using synthetic data for testing.
+[INFO] val dataset: 20 samples
+
+Evaluating:   0%|          | 0/10 [00:00<?, ?it/s]
+Evaluating:   0%|          | 0/10 [00:03<?, ?it/s, biou=0.0178, miou=0.2308]
+Evaluating:  10%|Γûê         | 1/10 [00:03<00:31,  3.51s/it, biou=0.0178, miou=0.2308]
+Evaluating:  10%|Γûê         | 1/10 [00:03<00:31,  3.51s/it, biou=0.0183, miou=0.2366]
+Evaluating:  20%|ΓûêΓûê        | 2/10 [00:03<00:12,  1.54s/it, biou=0.0183, miou=0.2366]
+Evaluating:  20%|ΓûêΓûê        | 2/10 [00:03<00:12,  1.54s/it, biou=0.0176, miou=0.2329]
+Evaluating:  30%|ΓûêΓûêΓûê       | 3/10 [00:03<00:06,  1.10it/s, biou=0.0176, miou=0.2329]
+Evaluating:  30%|ΓûêΓûêΓûê       | 3/10 [00:03<00:06,  1.10it/s, biou=0.0170, miou=0.2297]
+Evaluating:  40%|ΓûêΓûêΓûêΓûê      | 4/10 [00:03<00:03,  1.64it/s, biou=0.0170, miou=0.2297]
+Evaluating:  40%|ΓûêΓûêΓûêΓûê      | 4/10 [00:04<00:03,  1.64it/s, biou=0.0173, miou=0.2299]
+Evaluating:  50%|ΓûêΓûêΓûêΓûêΓûê     | 5/10 [00:04<00:02,  2.22it/s, biou=0.0173, miou=0.2299]
+Evaluating:  50%|ΓûêΓûêΓûêΓûêΓûê     | 5/10 [00:04<00:02,  2.22it/s, biou=0.0175, miou=0.2334]
+Evaluating:  50%|ΓûêΓûêΓûêΓûêΓûê     | 5/10 [00:04<00:02,  2.22it/s, biou=0.0177, miou=0.2321]
+Evaluating:  50%|ΓûêΓûêΓûêΓûêΓûê     | 5/10 [00:04<00:02,  2.22it/s, biou=0.0178, miou=0.2308]
+Evaluating:  50%|ΓûêΓûêΓûêΓûêΓûê     | 5/10 [00:04<00:02,  2.22it/s, biou=0.0188, miou=0.2336]
+Evaluating:  90%|ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê | 9/10 [00:04<00:00,  6.08it/s, biou=0.0188, miou=0.2336]
+Evaluating:  90%|ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê | 9/10 [00:04<00:00,  6.08it/s, biou=0.0168, miou=0.2320]
+Evaluating: 100%|ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê| 10/10 [00:04<00:00,  2.12it/s, biou=0.0168, miou=0.2320]
+
+ΓöÇΓöÇΓöÇ Evaluation Results ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ
+  mIoU:        0.2322
+  BoundaryIoU: 0.0177
+  Val Loss:    0.7123
+  Throughput:  33.2 ┬▒ 13.7 FPS
+  Samples saved to: ./logs/eval
+ΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇΓöÇ

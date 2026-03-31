@@ -1,0 +1,3 @@
+{"type": "epoch", "epoch": 1, "train_loss": 1.3098547458648682, "train_miou": 0.40226659178733826, "val_loss": null, "val_miou": null, "epoch_time": 1.3261282444000244}
+{"type": "epoch", "epoch": 1, "train_loss": 1.468134472767512, "train_miou": 0.2020942655702432, "val_loss": null, "val_miou": null, "epoch_time": 3.3290817737579346}
+{"type": "epoch", "epoch": 2, "train_loss": 1.390626589457194, "train_miou": 0.2082861978560686, "val_loss": 0.7048536729812622, "val_miou": 1.7555354114850986e-11, "epoch_time": 5.231055498123169}
